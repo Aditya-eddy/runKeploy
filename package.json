@@ -3,6 +3,7 @@
   "displayName": "Keploy",
   "description": "",
   "version": "0.0.1",
+  "publisher": "aditya sharma",
   "engines": {
     "vscode": "^1.86.0"
   },
