@@ -4,7 +4,7 @@ This is the README for your extension "runKeploy". After writing up a brief desc
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README files.
 
 For example if there is an image subfolder under your extension project workspace:
 
