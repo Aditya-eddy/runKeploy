@@ -24,5 +24,4 @@ jobs:
       - name: Install dependencies
         run: npm install  # Or use 'yarn install' if you prefer Yarn
 
-      - name: Package extension
-        run: vsce package
+      
